@@ -1,8 +1,5 @@
 # ETH Total Supply
 
-* Total ETH issued as of block 10600000 (August 5th 2020):
-* Total ETH in account balances as of block 10600000 (August 5th 2020):
-
 The purpose of this repository is to prove beyond reasonable doubt what the total supply of ETH is on Earth.
 
 ## Some Background
